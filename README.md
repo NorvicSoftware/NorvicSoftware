@@ -35,6 +35,7 @@ Fuera del ámbito profesional, me gusta la lectura de libros de emprendimiento y
 Aquí hay algunos libros y cursos que podrían interesarte:
 
 - [Laravel de cero a diez](https://www.amazon.com/Laravel-cero-diez-Aprende-programar/dp/9917020578/ref=sr_1_8?crid=3GGXD9VD4XK08&keywords=laravel+api&qid=1706406363&sprefix=laravel+api%2Caps%2C185&sr=8-8): Aprende a programar una API REST con Laravel y Next.js.
+- [Desplegar Proyecto Laravel](https://norvicsoftware.com/desplegar-proyecto-laravel): Desplegar tu proyecto Laravel a producción.
 
 ## Contacto
 
