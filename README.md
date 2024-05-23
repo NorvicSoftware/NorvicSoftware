@@ -30,6 +30,10 @@ Fuera del ámbito profesional, me gusta la lectura de libros de emprendimiento y
 
 - **Consultarias de Laravel**: Ofrezco consultorías y microconsultorías especializadas en el desarrollo de software utilizando Laravel y todo su ecosistema.
 
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ## Libros
 
 Aquí hay algunos libros y cursos que podrían interesarte:
