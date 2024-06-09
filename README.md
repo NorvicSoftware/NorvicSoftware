@@ -1,18 +1,39 @@
 ### Victor Peña, Norvic Software  👋
 
-¡Hola! Mi nombre es [Víctor Peña](https://www.linkedin.com/in/victor-pe%C3%B1a-bo/), soy ingeniero de sistemas apasionado por la tecnología, los libros y el deporte. Me considero un aventurero y, sobre todo, un emprendedor. Mi especialidad es el desarrollo de software como Backend Developer, experto en el framework Laravel, así como habilidades destacadas en PHP, JavaScript, Vuejs, React y Base de datos.
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-Soy el creador de contenido en temas relacionados con el emprendimiento, marca personal y el desarrollo de software. Puedes encontrar mis pensamientos y conocimientos en mi blog en [norvicsoftware.com/blog](https://norvicsoftware.com/blog/) y el [LinkedIn](https://www.linkedin.com/in/victor-pe%C3%B1a-bo/).
+👨‍💻 ¡Hola! Mi nombre es [Víctor Peña](https://www.linkedin.com/in/victor-pe%C3%B1a-bo/), Soy desarrollador web especializado en el framework Laravel, con una sólida trayectoria en la creación de aplicaciones web de alto rendimiento y escalabilidad. Utilizo tecnologías como Laravel, JavaScript, React y Vue. Con más de 10 años de experiencia, he trabajado en empresas desarrollando proyectos para clientes en Estados Unidos y Canadá.
 
-He tenido el placer de escribir mi primer libro, titulado "[Laravel de cero a diez](https://norvicsoftware.com/laravel-de-cero-a-diez/): Aprende a programar una API REST con Laravel y Next.js". Actualmente, el libro está disponible tanto en la plataforma de [Amazon](https://www.amazon.com/Laravel-cero-diez-Aprende-programar/dp/9917020578/ref=sr_1_8?crid=3GGXD9VD4XK08&keywords=laravel+api&qid=1706406363&sprefix=laravel+api%2Caps%2C185&sr=8-8) como en mi página web [Norvic Software](https://norvicsoftware.com/laravel-de-cero-a-diez/).
+📝 Soy creador de contenido en temas relacionados con el emprendimiento, marca personal y desarrollo de software. Comparto mis conocimientos y reflexiones en mi blog en [norvicsoftware.com/blog](https://norvicsoftware.com/blog/) y en [LinkedIn](https://www.linkedin.com/in/victor-pe%C3%B1a-bo/).
 
-Esta obra representa mi compromiso con compartir conocimientos y experiencias en el fascinante mundo del desarrollo de software. Espero que esta guía sea útil para todos aquellos que deseen explorar y dominar la creación de API REST utilizando Laravel y Next.js. Y **estoy en la etapa de crear más libros y cursos referente a Laravel y todo su ecosistema**.
+🎓 Me apasiona la enseñanza, compartir conocimientos y experiencias en el fascinante mundo del desarrollo de software. He tenido la oportunidad de impartir cursos y talleres sobre Laravel, donde he ayudado a más de 500 desarrolladores a mejorar sus habilidades en el desarrollo de software.
 
-Conseguí emprender varios proyectos que actualmente están en la etapa de maduración, varios de nuestros clientes ya lo están usando con resultados satisfactorios, algunos de nuestros proyectos son: ISAP, Sistema Administrativo Parroquial, AFI, TU Agenda Financiera, Plaza de Comidas Bolivia, Casa hotel, etc.
+📚 He tenido el placer de escribir dos libros hasta la fecha: "Laravel de cero a diez: Aprende a programar una API REST con Laravel y Next.js" y "Guía para desplegar tu proyecto de Laravel a producción". Actualmente, ambos libros están disponibles en Amazon y en mi página web, Norvic Software.
 
-Actualmente trabajo en la [empresa Norvic](https://norvicsoftware.com) Software donde también soy fundador de esta. Es una empresa dedicada al desarrollo de sistemas web, especializada en el framework de Laravel.
+🚀 He tenido el privilegio de emprender varios proyectos que actualmente se encuentran en etapa de maduración y ya están siendo utilizados con resultados satisfactorios por numerosos clientes. Algunos de estos proyectos incluyen: ISAP (Sistema Administrativo Parroquial), AFI (Tu Agenda Financiera), y ASSILEM (Sistema administrativo para clínicas odontológicas).
 
-Fuera del ámbito profesional, me gusta la lectura de libros de emprendimiento y escuchar Podcast también de emprendimiento. Soy un apasionado del fútbol, ciclismo y de correr maratones.
+<div align="center">
+    <a href="https://norvicsoftware.com">
+        <img
+            alt="laravel"
+            src="https://laravel-array.com/images/laravel-1.jpeg"
+            width="350">
+    </a>
+    <a href="https://norvicsoftware.com">
+        <img
+            alt="laravel"
+            src="https://laravel-array.com/images/Laravel-2.jpeg"
+            width="350">
+    </a>
+</div>
 
 ## Acerca de mí
 
@@ -29,10 +50,6 @@ Fuera del ámbito profesional, me gusta la lectura de libros de emprendimiento y
 - **Creador de contenido**: Soy creador de contenido de emprendimiento, desarrollo personal y desarrollo de software en mi blog en Norvic Software. En este espacio, comparto conocimientos y experiencias para inspirar y guiar al crecimiento personal.
 
 - **Consultarias de Laravel**: Ofrezco consultorías y microconsultorías especializadas en el desarrollo de software utilizando Laravel y todo su ecosistema.
-
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## Libros
 
