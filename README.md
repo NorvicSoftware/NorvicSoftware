@@ -64,7 +64,7 @@ Aquí hay algunos libros y cursos que podrían interesarte:
 
 - 📧 Email: [info@norvicsoftware.com](mailto:info@norvicsoftware.com)
 - 💼 LinkedIn: [Victor Peña](https://www.linkedin.com/in/victor-pe%C3%B1a-bo/)
-- 🐦 WhatsApp: [+591 67536264](https://wa.link/s2492k)
+- 🐦 WhatsApp: [+591 76980507](https://wa.link/zr4w95)
 
 ¡Gracias! 
 
