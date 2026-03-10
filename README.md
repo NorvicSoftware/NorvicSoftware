@@ -10,78 +10,103 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-👨‍💻 ¡Hola! Mi nombre es [Víctor Peña](https://www.linkedin.com/in/victor-pe%C3%B1a-bo/), Soy desarrollador web especializado en el framework Laravel, con una sólida trayectoria en la creación de aplicaciones web de alto rendimiento y escalabilidad. Utilizo tecnologías como Laravel, JavaScript, React y Vue. Con más de 10 años de experiencia, he trabajado en empresas desarrollando proyectos para clientes en Estados Unidos y Canadá.
+👨‍💻 Hello! I'm [Víctor Peña](https://www.linkedin.com/in/victor-pe%C3%B1a-bo/), a web developer specialized in **PHP** and the **Laravel** framework, with more than **12 years of experience** building robust, scalable, and high-performance web applications.
 
-📝 Soy creador de contenido en temas relacionados con el emprendimiento, marca personal y desarrollo de software. Comparto mis conocimientos y reflexiones en mi blog en [norvicsoftware.com/blog](https://norvicsoftware.com/blog/) y en [LinkedIn](https://www.linkedin.com/in/victor-pe%C3%B1a-bo/).
+Throughout my career I have developed **enterprise applications and custom software solutions**, including systems for the **hydrocarbon industry**, helping organizations optimize internal processes, manage information efficiently, and automate operations.
 
-🎓 Me apasiona la enseñanza, compartir conocimientos y experiencias en el fascinante mundo del desarrollo de software. He tenido la oportunidad de impartir cursos y talleres sobre Laravel, donde he ayudado a más de 500 desarrolladores a mejorar sus habilidades en el desarrollo de software.
+I have worked on projects for companies with clients in the **United States and Canada**, building reliable platforms using modern technologies such as **Laravel, JavaScript, React, and VueJS**.
 
-📚 He tenido el placer de escribir dos libros hasta la fecha: "Laravel de cero a diez: Aprende a programar una API REST con Laravel y Next.js" y "Guía para desplegar tu proyecto de Laravel a producción". Actualmente, ambos libros están disponibles en Amazon y en mi página web, Norvic Software.
+📝 I am also a **content creator** focused on software development and entrepreneurship. I share knowledge, experiences, and insights on my blog: [norvicsoftware.com/blog](https://norvicsoftware.com/blog/) and on my [LinkedIn](https://www.linkedin.com/in/victor-pe%C3%B1a-bo/).
 
-🚀 He tenido el privilegio de emprender varios proyectos que actualmente se encuentran en etapa de maduración y ya están siendo utilizados con resultados satisfactorios por numerosos clientes. Algunos de estos proyectos incluyen: ISAP (Sistema Administrativo Parroquial), AFI (Tu Agenda Financiera), y ASSILEM (Sistema administrativo para clínicas odontológicas).
+🎓 I am passionate about **teaching and sharing knowledge**. I have delivered courses and workshops on **Laravel**, helping more than **500 developers** improve their software development skills.
 
-<div align="center">
-    <a href="https://norvicsoftware.com">
-        <img
-            alt="laravel"
-            src="https://laravel-array.com/images/laravel-1.jpeg"
-            width="350">
-    </a>
-    <a href="https://norvicsoftware.com">
-        <img
-            alt="laravel"
-            src="https://laravel-array.com/images/Laravel-2.jpeg"
-            width="350">
-    </a>
-</div>
+📚 I am also the author of two books about Laravel development:
 
-## Acerca de mí
+- **"Laravel de cero a diez: Aprende a programar una API REST con Laravel y Next.js"** [Laravel de cero a diez](https://www.amazon.com/Laravel-cero-diez-Aprende-programar/dp/9917020578/ref=sr_1_8?crid=3GGXD9VD4XK08&keywords=laravel+api&qid=1706406363&sprefix=laravel+api%2Caps%2C185&sr=8-8)
+- **"Guía para desplegar tu proyecto de Laravel a producción"** [Desplegar Proyecto Laravel](https://norvicsoftware.com/desplegar-proyecto-laravel)
 
-- 💻 Desarrollador de software con enfoque en tecnologías web.
-- 🚀 Especialista en el framework Laravel.
-- 🎓 Master en EAE Business School.
+Both books are available on **Amazon** and on my website **Norvic Software**.
 
-## Habilidades
+---
 
-- **Laravel**: Soy experto en Laravel framework. He trabajado en una variedad de proyectos utilizando Laravel para crear aplicaciones web robustas y escalables.
+# 🚀 Entrepreneurship
 
-- **Emprendimiento**: Como emprendedor, he creado varios proyectos de desarrollo de software que actualmente están en funcionamiento, generando resultados exitosos para nuestros clientes.
+I have had the privilege of building and launching several technology projects that are currently used by **hundreds of users**. These projects focus on **digitizing administrative processes and improving business management**.
 
-- **Creador de contenido**: Soy creador de contenido de emprendimiento, desarrollo personal y desarrollo de software en mi blog en Norvic Software. En este espacio, comparto conocimientos y experiencias para inspirar y guiar al crecimiento personal.
+Some of these projects include:
 
-- **Consultarias de Laravel**: Ofrezco consultorías y microconsultorías especializadas en el desarrollo de software utilizando Laravel y todo su ecosistema.
+- **ISAP (Parish Administrative System)**  
+  A platform designed for parish administration, allowing the management of **sacraments, activities, and financial control**.
 
-## Libros
+- **AFI (Your Financial Agenda)**  
+  An application focused on **personal financial planning and management**, helping users track income, expenses, and organize their finances.
 
-Aquí hay algunos libros y cursos que podrían interesarte:
+- **ASSILEM (Dental Clinic Management System)**  
+  A comprehensive system for dental clinics including **patient management, appointment scheduling, treatments, budgets, contracts, and financial control**.
 
-- [Laravel de cero a diez](https://www.amazon.com/Laravel-cero-diez-Aprende-programar/dp/9917020578/ref=sr_1_8?crid=3GGXD9VD4XK08&keywords=laravel+api&qid=1706406363&sprefix=laravel+api%2Caps%2C185&sr=8-8): Aprende a programar una API REST con Laravel y Next.js.
-- [Desplegar Proyecto Laravel](https://norvicsoftware.com/desplegar-proyecto-laravel): Desplegar tu proyecto Laravel a producción.
+---
 
-## Contacto
+# 🚀 Featured Projects
 
-¡Hablemos! Puedes contactarme a través de:
+### 📄 Correspondence Management System
+
+A platform designed for the **complete management of institutional correspondence**, allowing organizations to register incoming and outgoing documents, assign responsibilities, and track each document throughout its lifecycle.
+
+Main features:
+
+- Registration of incoming and outgoing correspondence
+- Document assignment to responsible users
+- Document tracking and traceability
+- Notification system for involved users
+
+---
+
+### 🎓 TrainUS – Training Management System
+
+A system focused on **tracking employee training programs and courses**, enabling organizations to plan and monitor professional development.
+
+Main features:
+
+- Generation of the **Annual Training Plan**
+- Course organization and tracking by departments
+- Employee management
+- Reference catalog of available courses
+- Employee participation tracking
+- Training progress and compliance reports
+
+---
+
+### 📑 AutoservicioCA – Procurement Planning System
+
+A platform designed for **planning and tracking procurement processes**, managing the entire procurement lifecycle from the identification of a need to contract award and monitoring.
+
+Main features:
+
+- Creation of procurement processes
+- Management of requirements and requests
+- Definition of **planned dates**
+- Comparison between planned and actual execution
+- Process progress tracking
+- Notification and alert system
+
+---
+
+# 🧰 Tools and Libraries for Laravel
+
+In addition to developing enterprise applications, I also build **tools and libraries aimed at improving developer productivity** in **Laravel** projects.
+
+### ⚙️ Laravel Gohu
+
+**Laravel Gohu** is a plugin for Laravel applications that allows developers to **execute Eloquent and Query Builder commands directly within the application**, making it easier to debug, inspect data, and quickly run SQL queries during development or maintenance.
+
+## Contact
+
+Let's connect! You can reach me through:
 
 - 📧 Email: [info@norvicsoftware.com](mailto:info@norvicsoftware.com)
 - 💼 LinkedIn: [Victor Peña](https://www.linkedin.com/in/victor-pe%C3%B1a-bo/)
 - 🐦 WhatsApp: [+591 76980507](https://wa.link/zr4w95)
 
-¡Gracias! 
+Thank you!
 
-Saludos y éxitos. 😊
-
-
-<!--
-**NorvicSoftware/NorvicSoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Best regards and success in your projects. 
