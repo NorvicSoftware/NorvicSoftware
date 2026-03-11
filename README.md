@@ -22,8 +22,8 @@ I have worked on projects for companies with clients in the **United States and 
 
 📚 I am also the author of two books about Laravel development:
 
-- **"Laravel de cero a diez: Aprende a programar una API REST con Laravel y Next.js"** [Laravel de cero a diez](https://www.amazon.com/Laravel-cero-diez-Aprende-programar/dp/9917020578/ref=sr_1_8?crid=3GGXD9VD4XK08&keywords=laravel+api&qid=1706406363&sprefix=laravel+api%2Caps%2C185&sr=8-8)
-- **"Guía para desplegar tu proyecto de Laravel a producción"** [Desplegar Proyecto Laravel](https://norvicsoftware.com/desplegar-proyecto-laravel)
+- **"Laravel de cero a diez: Aprende a programar una API REST con Laravel y Next.js"** [Link](https://www.amazon.com/Laravel-cero-diez-Aprende-programar/dp/9917020578/ref=sr_1_8?crid=3GGXD9VD4XK08&keywords=laravel+api&qid=1706406363&sprefix=laravel+api%2Caps%2C185&sr=8-8)
+- **"Guía para desplegar tu proyecto de Laravel a producción"** [Link](https://norvicsoftware.com/desplegar-proyecto-laravel)
 
 Both books are available on **Amazon** and on my website **Norvic Software**.
 
@@ -97,7 +97,7 @@ In addition to developing enterprise applications, I also build **tools and libr
 
 ### ⚙️ Laravel Gohu
 
-**Laravel Gohu** is a plugin for Laravel applications that allows developers to **execute Eloquent and Query Builder commands directly within the application**, making it easier to debug, inspect data, and quickly run SQL queries during development or maintenance.
+[Laravel Gohu](https://github.com/NorvicSoftware/gohu) is a plugin for Laravel applications that allows developers to **execute Eloquent and Query Builder commands directly within the application**, making it easier to debug, inspect data, and quickly run SQL queries during development or maintenance.
 
 ## Contact
 
