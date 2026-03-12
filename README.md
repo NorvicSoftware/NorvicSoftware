@@ -14,7 +14,7 @@
 
 Throughout my career I have developed **enterprise applications and custom software solutions**, including systems for the **hydrocarbon industry**, helping organizations optimize internal processes, manage information efficiently, and automate operations.
 
-I have worked on projects for companies with clients in the **United States and Canada**, building reliable platforms using modern technologies such as **Laravel, JavaScript, React, and VueJS**.
+I have worked on projects for companies with clients in the United States and Canada, building reliable platforms using modern technologies such as **Laravel, Python, JavaScript, React, VueJS**, as well as **Cloud services, Artificial Intelligence (AI), and the Model Context Protocol (MCP)**
 
 📝 I am also a **content creator** focused on software development and entrepreneurship. I share knowledge, experiences, and insights on my blog: [norvicsoftware.com/blog](https://norvicsoftware.com/blog/) and on my [LinkedIn](https://www.linkedin.com/in/victor-pe%C3%B1a-bo/).
 
