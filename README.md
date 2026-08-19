@@ -35,14 +35,17 @@ I have had the privilege of building and launching several technology projects t
 
 Some of these projects include:
 
-- **ISAP (Parish Administrative System)**  
-  A platform designed for parish administration, allowing the management of **sacraments, activities, and financial control**.
+- **ISAP (Parish Administrative System)**
+  A platform designed for parish administration, allowing the management of **sacraments, activities, and financial control**. [Link](https://isap-bolivia.norvicsoftware.com/)
 
-- **AFI (Your Financial Agenda)**  
+- **AFI (Your Financial Agenda)**
   An application focused on **personal financial planning and management**, helping users track income, expenses, and organize their finances.
 
-- **ASSILEM (Dental Clinic Management System)**  
-  A comprehensive system for dental clinics including **patient management, appointment scheduling, treatments, budgets, contracts, and financial control**.
+- **ASSILEM (Dental Clinic Management System)**
+  A comprehensive system for dental clinics including **patient management, appointment scheduling, treatments, budgets, contracts, and financial control**. [Link](https://assilem-bolivia.norvicsoftware.com/)
+
+- **ChatDocsIA**
+  A platform that lets users **chat with their documents using Artificial Intelligence**, making it easy to search, query, and get instant answers from files. [Link](https://chatdocsia.com/)
 
 ---
 
@@ -97,7 +100,7 @@ In addition to developing enterprise applications, I also build **tools and libr
 
 ### ⚙️ Laravel Gohu
 
-[Laravel Gohu](https://github.com/NorvicSoftware/gohu) is a plugin for Laravel applications that allows developers to **execute Eloquent and Query Builder commands directly within the application**, making it easier to debug, inspect data, and quickly run SQL queries during development or maintenance.
+[Laravel Gohu](https://github.com/NorvicSoftware/gohu) is a plugin for Laravel applications that allows developers to **execute Eloquent and Query Builder commands directly within the application**, making it easier to debug, inspect data, and quickly run SQL queries during development or maintenance. [Link](https://gohu.norvicsoftware.com/)
 
 ## Contact
 
@@ -109,4 +112,4 @@ Let's connect! You can reach me through:
 
 Thank you!
 
-Best regards and success in your projects. 
+Best regards and success in your projects.
